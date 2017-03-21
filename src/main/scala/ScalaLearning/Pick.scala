@@ -1,7 +1,7 @@
 package ScalaLearning
 
 /**
-  * Created by andrew25ism on 1/29/2017.
+  * Created by chris on 1/29/2017.
   */
 class Pick(private var name:String,private var sound:String) {
   this.name = name

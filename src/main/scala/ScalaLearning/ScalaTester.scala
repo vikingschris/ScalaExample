@@ -1,7 +1,7 @@
 package ScalaLearning
 
 /**
-  * Created by andrew25ism on 1/28/2017.
+  * Created by chris on 1/28/2017.
   */
 import scala.io.Source
 import java.io.PrintWriter
